@@ -1,11 +1,4 @@
 foo = "Colin"
 
-string = <<-HI
-I would like to say hello world.
-
-My name is #{foo}
-HI
-
-puts "hello #{foo}!"
-
+string = "I would like to say hello world.\n From #{foo}!"
 puts string
