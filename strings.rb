@@ -1,4 +1,4 @@
 foo = "Colin"
 
-string = "I would like to say hello world.\n From #{foo}!"
+string = "\nI would like to say hello world.\n\t\tFrom #{foo}!"
 puts string
