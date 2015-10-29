@@ -7,3 +7,7 @@ bigFoo = foo.upcase
 puts bigFoo
 
 puts bigFoo.reverse
+
+puts bigFoo.downcase!
+
+puts bigFoo
