@@ -31,3 +31,12 @@ puts div
 puts 6 % 4
 
 puts 2**4
+
+year = 2015
+puts "the year is #{year}"
+
+
+puts "in twenty-five years the year will be #{year + 25}"
+
+future = 50
+puts "in #{future} years the year will be #{year + future}"
