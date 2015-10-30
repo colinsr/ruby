@@ -21,3 +21,13 @@ name = "Colin"
 
 # this doesn't work
 # puts number + name
+
+mult = c * d
+puts mult
+
+div = d / c
+puts div
+
+puts 6 % 4
+
+puts 2**4
