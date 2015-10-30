@@ -9,3 +9,15 @@ def second_method
 end
 
 second_method
+
+def third_method(a)
+  puts a * a
+end
+
+def fourth_method(a, b)
+  puts a + b
+end
+
+third_method(2)
+
+fourth_method(2,3)
